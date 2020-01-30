@@ -7,5 +7,6 @@ setup(name='dproj',
         author='D. Duckie Rodriguez',
         author_email='duckie.68@gmail.com',
         license='MIT',
+        scripts=['bin/dproj'],
         packages=['dproj'],
         zip_safe=False)
